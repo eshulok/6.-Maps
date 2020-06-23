@@ -4,7 +4,7 @@
 #To create a map, we use curley braces to contain the information, and a colon between each key/value pairs, which are separated by commas 
 
 #Here is a map to store my (made up) movie ratings for some movies
-movie_ratings = {'Toy Story' : 5, 'Monsters, Inc.' : 4, "Inside Out" : 5, "A Bug's Life" : 2, "Coco" : 5, "Finding Nemo" : 5, "Finding Dora" : 3}
+movie_ratings = {"Toy Story" : 5, "Monsters, Inc." : 4, "Inside Out" : 5, "A Bug's Life" : 2, "Coco" : 5, "Finding Nemo" : 5, "Finding Dora" : 3}
 
 #The Key in this example is the movie title, the Value is my rating
 print(movie_ratings) #Prints the whole list
